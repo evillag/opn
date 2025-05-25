@@ -110,5 +110,5 @@ dmypy.json
 cython_debug/
 
 # VS Code and JetBrains IDEs (excluded as requested)
-# .vscode/
-# .idea/
+.vscode/
+.idea/
